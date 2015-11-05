@@ -14,7 +14,7 @@ body {
 }
 
 .text-primary {
-    color: #fed136;
+    color: #C70A0A;
 }
 
 p {
@@ -74,7 +74,7 @@ h6 {
     font-family: Montserrat,"Helvetica Neue",Helvetica,Arial,sans-serif;
     font-weight: 700;
     color: #fff;
-    background-color: #fed136;
+    background-color: #C70A0A;
 }
 
 .btn-primary:hover,
@@ -109,11 +109,11 @@ fieldset[disabled] .btn-primary:active,
 .btn-primary[disabled].active,
 fieldset[disabled] .btn-primary.active {
     border-color: #fed136;
-    background-color: #fed136;
+    background-color: #C70A0A;
 }
 
 .btn-primary .badge {
-    color: #fed136;
+    color: #C70A0A;
     background-color: #fff;
 }
 
@@ -161,11 +161,11 @@ fieldset[disabled] .btn-xl:active,
 .btn-xl[disabled].active,
 fieldset[disabled] .btn-xl.active {
     border-color: #fed136;
-    background-color: #fed136;
+    background-color: #C70A0A;
 }
 
 .btn-xl .badge {
-    color: #fed136;
+    color: #C70A0A;
     background-color: #fff;
 }
 
@@ -192,7 +192,7 @@ fieldset[disabled] .btn-xl.active {
 
 .navbar-default .navbar-toggle {
     border-color: #fed136;
-    background-color: #fed136;
+    background-color: #C70A0A;
 }
 
 .navbar-default .navbar-toggle .icon-bar {
@@ -201,7 +201,7 @@ fieldset[disabled] .btn-xl.active {
 
 .navbar-default .navbar-toggle:hover,
 .navbar-default .navbar-toggle:focus {
-    background-color: #fed136;
+    background-color: #C70A0A;
 }
 
 .navbar-default .nav li a {
@@ -493,7 +493,7 @@ section h3.section-subheading {
     border-radius: 100%;
     text-align: center;
     color: #fff;
-    background-color: #fed136;
+    background-color: #C70A0A;
 }
 
 .timeline>li .timeline-image h4 {
@@ -758,7 +758,7 @@ ul.social-buttons li a {
 ul.social-buttons li a:hover,
 ul.social-buttons li a:focus,
 ul.social-buttons li a:active {
-    background-color: #fed136;
+    background-color: #C70A0A;
 }
 
 .btn:focus,
@@ -846,7 +846,7 @@ ul.social-buttons li a:active {
 
 ::-moz-selection {
     text-shadow: none;
-    background: #fed136;
+    background: #C70A0A;
 }
 
 ::selection {
@@ -863,5 +863,5 @@ img::-moz-selection {
 }
 
 body {
-    webkit-tap-highlight-color: #fed136;
+    webkit-tap-highlight-color: #C70A0A;
 }
